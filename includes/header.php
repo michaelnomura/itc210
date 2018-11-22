@@ -4,10 +4,6 @@
     <link href="https://fonts.googleapis.com/css?family=Exo|Great+Vibes" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/nav-desktop.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-<style>
-  
-
-    </style>
 </head>
 <body>
 
@@ -56,22 +52,3 @@
       <a href="#">Link 3</a>
     </div>
   </li>
-    
-
-    
-</ul>
-    <div class="splash">
-    <p>MATCHMAKING and RELATIONSHIP CONSULTING</p>
-    <a href="#" class="button">Connect</a>
-    </div>
-    <div class="text">
-<div class="row">
-<span class="left">MAKING THE CONNECTION</span> 
-<span class="right"> ds</span></div>
-    
-
-
-    </div>
-    
-    </body>
-</html>

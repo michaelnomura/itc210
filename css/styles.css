@@ -1,0 +1,65 @@
+html, body {
+margin:0;
+padding:0;
+}  
+    
+.splash {
+    background-image: url("../images/couple_watching_sunset.jpg");
+    font-size: 3em;
+    height: 600px;
+    padding: 50px;
+    color: white;
+    font-family: 'Exo', sans-serif;
+    padding-top: 15%;;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    }    
+
+.text {
+    background-color: #D8DCDD;
+    font-size: 3em;
+    height: 800px;
+    color: white;
+    font-family: 'Exo', sans-serif;
+    text-align: left;
+    padding-top; 40%;
+    margin: 0px;
+
+    } 
+    
+a:link, a:visited {
+    background-color: #D8DCDD;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0.5;
+}
+    
+a:hover, a:active {
+    opacity: 1.0;
+}
+    
+div.row span.left {
+  float: left;
+  text-align: left;
+  font-weight: bold;
+  color: #fff;
+  width: 39%;
+  padding: 5%;
+font-size: 1.5em;
+    }
+
+div.row span.right {
+  float: right;
+  text-align: left;
+  font-weight: bold;
+  color: #fff;
+  width: 39%;
+    padding: 5%;
+
+
+  }
